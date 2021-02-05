@@ -35,7 +35,7 @@ namespace PingTest
                     tb_error.AppendText(ip + test.ToString() + ":no ok!" + "\r\n");
                 }
             }
-            for (test = 20; test < 56; test++)
+            for (test = 20; test < 58; test++)
             {
                 if (stop) break;
                 if (Ping(ip + test.ToString()))

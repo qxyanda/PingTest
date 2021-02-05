@@ -7,3 +7,13 @@ E:\vs_ws\PingTest\obj\Debug\PingTest.csproj.GenerateResource.cache
 E:\vs_ws\PingTest\obj\Debug\PingTest.csproj.CoreCompileInputs.cache
 E:\vs_ws\PingTest\obj\Debug\PingTest.exe
 E:\vs_ws\PingTest\obj\Debug\PingTest.pdb
+E:\github\PingTest\bin\Debug\PingTest.exe.config
+E:\github\PingTest\bin\Debug\PingTest.exe
+E:\github\PingTest\bin\Debug\PingTest.pdb
+E:\github\PingTest\obj\Debug\PingTest.csprojAssemblyReference.cache
+E:\github\PingTest\obj\Debug\PingTest.Form1.resources
+E:\github\PingTest\obj\Debug\PingTest.Properties.Resources.resources
+E:\github\PingTest\obj\Debug\PingTest.csproj.GenerateResource.cache
+E:\github\PingTest\obj\Debug\PingTest.csproj.CoreCompileInputs.cache
+E:\github\PingTest\obj\Debug\PingTest.exe
+E:\github\PingTest\obj\Debug\PingTest.pdb

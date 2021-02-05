@@ -1,0 +1,9 @@
+E:\vs_ws\PingTest\bin\Debug\PingTest.exe.config
+E:\vs_ws\PingTest\bin\Debug\PingTest.exe
+E:\vs_ws\PingTest\bin\Debug\PingTest.pdb
+E:\vs_ws\PingTest\obj\Debug\PingTest.Form1.resources
+E:\vs_ws\PingTest\obj\Debug\PingTest.Properties.Resources.resources
+E:\vs_ws\PingTest\obj\Debug\PingTest.csproj.GenerateResource.cache
+E:\vs_ws\PingTest\obj\Debug\PingTest.csproj.CoreCompileInputs.cache
+E:\vs_ws\PingTest\obj\Debug\PingTest.exe
+E:\vs_ws\PingTest\obj\Debug\PingTest.pdb
